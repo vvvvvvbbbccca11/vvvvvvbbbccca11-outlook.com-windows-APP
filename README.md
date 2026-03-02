@@ -5,5 +5,7 @@
 # 如何下载
 如果要下载二进制文件或者特定版本的源代码，请转到 https://github.com/vvvvvvbbbccca11/vvvvvvbbbccca11-outlook.com-windows-APP/releases ,如果你没有VC++运行时,请运行VC_redist.x64.exe
 ,我已经把这个文件放在 https://github.com/vvvvvvbbbccca11/vvvvvvbbbccca11-outlook.com-windows-APP/release 了;
+# 提示
+如果下载被浏览器阻止，请右键选择保留。<h1 style = "font-size = 30px">如果遇到关不掉的弹窗请使用任务管理器结束进程，如果不会可以强行注销/重启</h1>
 # 最后
 感谢大家使用我的APP,如果各位大佬有建议,请提醒我!
